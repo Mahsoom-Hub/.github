@@ -1,22 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="محسوم · MAHSOOM. كل شيفت محسوم. كل قرش محسوم." src="./assets/hero-dark.svg" width="100%">
+  <img alt="Mahsoom. Every shift settled. Every piaster settled." src="./assets/hero-dark.svg" width="100%">
 </picture>
 
 <br>
 
-<div dir="rtl" align="right">
+### One operating system for small merchants
 
-### نظام تشغيل واحد للتاجر الصغير
-
-**محسوم** منصة واحدة لأصحاب المشاريع في مصر. التاجر بيفعّل الموديول اللي محتاجه بس، وكل موديول اسمه فعل أمر من كلمة واحدة بيقول هيعمل إيه بالظبط. الأم هي الدايرة كاملة، والأفعال هي أجزاءها.
-
-</div>
-
-<p align="left">
-<b>Mahsoom</b> is a modular business OS for small merchants in Egypt. Merchants switch on only the modules they need. Every module is named with a single Arabic imperative that says exactly what it does: one parent, one seal, one domain.
-</p>
+**Mahsoom** is a modular business OS for small merchants in Egypt. Merchants switch on only the modules they need. Every module is named with a single Arabic imperative that says exactly what it does: one parent, one seal, one domain. The parent is the full ring, and the modules are its segments.
 
 <br>
 
@@ -28,17 +20,13 @@
 
 <br>
 
-<div dir="rtl" align="right">
-
-| | الموديول | بيعمل إيه | الحالة |
+| | Module | What it does | Status |
 |:--|:--|:--|:--|
-| ◆ | **أسّس من محسوم** · Establish | موقعك أو متجرك جاهز ومنشور على دومينك أنت | المرحلة الأولى |
-| ◆ | **أكّد من محسوم** · Confirm | صندوق الطلبات وتأكيدها على واتساب قبل ما تتشحن | المرحلة الأولى |
-| ◇ | وزّع · تابع · سلّم | الشحن والمناديب ومتابعة كل شحنة لحظة بلحظة | قريبًا |
-| ◇ | حصّل · سوّي | تقفيل الكاش وكشوف حسابات التجار | قريبًا |
-| ◇ | اربط | بوابات الدفع وشركات الشحن وأنظمة الـ ERP | قريبًا |
-
-</div>
+| ◆ | **Establish** · أسّس | Your website or store, built and published on your own domain | Phase I |
+| ◆ | **Confirm** · أكّد | An order inbox that confirms every order on WhatsApp before it ships | Phase I |
+| ◇ | **Dispatch · Track · Deliver** · وزّع · تابع · سلّم | Shipping, couriers, and live tracking for every shipment | Soon |
+| ◇ | **Collect · Settle** · حصّل · سوّي | Cash reconciliation and merchant statements | Soon |
+| ◇ | **Connect** · اربط | Payment gateways, shipping partners, and ERP systems | Soon |
 
 <br>
 
